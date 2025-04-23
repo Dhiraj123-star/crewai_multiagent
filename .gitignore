@@ -1,0 +1,39 @@
+# Python virtual environment
+venv/
+.env
+*.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code and other IDE config
+.vscode/
+.idea/
+
+# Environment variables
+.env.local
+.env.production
+.env.development
+
+# SQLite or other database files
+*.db
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output files
+*.log
+*.txt
+*.csv
+student_campaign_output.csv
+ai.txt
+
+# MacOS-specific files
+.DS_Store
+
+# Crewai tool or LangChain temporary files
+crewai_cache/
+langchain_logs/
