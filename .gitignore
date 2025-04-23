@@ -26,7 +26,7 @@ __pycache__/
 
 # Output files
 *.log
-*.txt
+ai.txt
 *.csv
 student_campaign_output.csv
 ai.txt
